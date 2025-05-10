@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Blockchain Enthusiast | Validator | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://github.com/0xZepeto">
+  <a href="https://github.com/0xZxcrypto">
     <img src="https://komarev.com/ghpvc/?username=0xZepeto&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
 </p>
